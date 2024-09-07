@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srimathi</h1>
 <h3 align="center">A passionate AI and Machine learning developer</h3>
 
-- 🔭 I’m currently working on **Data Retrival using AI from different formats like JSON,SQL etc**
+- 🔭 I’m currently pursuing my undergraduate degree in **B.Tech Artificial Intelligence and data science.**
+
+- 🌱 My skill set includes **Python, Java, SQL, Machine Learning, Generative AI, and Tableau.**
+
+- 🔭 I am currently working on a project focused on **data retrieval using AI from various formats, including JSON and SQL.**
 
 - 🌱 I’m currently learning **Python Frameworks(Langchain,Tensorflow,Numpy and pandas)**
   
