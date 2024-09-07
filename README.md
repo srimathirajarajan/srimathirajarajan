@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Srimathi</h1>
 <h3 align="center">A passionate AI and Machine learning developer</h3>
 
-- 🔭 I’m currently working on **Data Retrival from different formats like JSON,SQL etc**
+- 🔭 I’m currently working on **Data Retrival using AI from different formats like JSON,SQL etc**
 
 - 🌱 I’m currently learning **Python Frameworks(Langchain,Tensorflow,Numpy and pandas)**
 
