@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Data Retrival using AI from different formats like JSON,SQL etc**
 
 - 🌱 I’m currently learning **Python Frameworks(Langchain,Tensorflow,Numpy and pandas)**
-
+  
 - 💬 Ask me about **AI and Machine learning**
 
 - 📫 How to reach me **srimathir16082004@gmail.com**
